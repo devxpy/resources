@@ -5,3 +5,5 @@
 - [Learn Prompting](https://learnprompting.org/docs/intro)
 
 - [Builtin Superheroes](https://www.youtube.com/watch?v=j6VSAsKAj98)
+
+- [Host Your I/O](https://www.youtube.com/watch?v=PBQN62oUnN8)
