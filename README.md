@@ -9,3 +9,5 @@
 - [Host Your I/O](https://www.youtube.com/watch?v=PBQN62oUnN8)
 
 - [Concurrency](https://www.youtube.com/watch?v=9zinZmE3Ogk)
+
+- [React Hooks](https://www.youtube.com/watch?v=KJP1E-Y-xyo)
