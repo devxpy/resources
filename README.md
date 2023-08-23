@@ -7,3 +7,5 @@
 - [Builtin Superheroes](https://www.youtube.com/watch?v=j6VSAsKAj98)
 
 - [Host Your I/O](https://www.youtube.com/watch?v=PBQN62oUnN8)
+
+- [Concurrency](https://www.youtube.com/watch?v=9zinZmE3Ogk)
