@@ -13,3 +13,5 @@
 - [React Hooks](https://www.youtube.com/watch?v=KJP1E-Y-xyo)
 
 - [Tiktokenizer](https://tiktokenizer.vercel.app/) 
+
+- [GPT in 60 Lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
